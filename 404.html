@@ -3,23 +3,68 @@ permalink: /404.html
 layout: page
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
+ <style>
+   
+    .error-box {
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(10px);
+        border-radius: 20px;
+        padding: 50px;
+        max-width: 500px;
+        width: 100%;
+        box-shadow: 0 15px 40px rgba(0,0,0,0.2);
+        animation: fadeUp 0.8s ease;
+    }
+
+    .error-code {
+        font-size: 120px;
+        font-weight: 800;
+        line-height: 1;
+        letter-spacing: 5px;
+    }
+
+    .error-title {
+        font-size: 26px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .error-text {
+        font-size: 16px;
+        opacity: 0.9;
+        margin-bottom: 30px;
+    }
+
+    .btn-home {
+        padding: 12px 30px;
+        font-weight: 600;
+        border-radius: 50px;
+    }
+
+    @keyframes fadeUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
 </style>
 
-<div class="container">
-  <h1>404</h1>
+<div class="d-flex justify-content-center align-items-center vh-20">
+<div class="error-box text-center">
+    <div class="error-code">404</div>
+    <div class="error-title">Oops! Page Not Found</div>
+    <p class="error-text">
+        The page you are looking for might have been removed,<br>
+        had its name changed, or is temporarily unavailable.
+    </p>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+    <a href="/" class="btn btn-light btn-home">
+        ← Back to Home
+    </a>
 </div>
+</div>
+  </div>
