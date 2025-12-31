@@ -10,7 +10,7 @@ description: AIIBSCSTEWC is the national welfare council of Indian Bank SC/ST em
   <div id="heroCarousel" class="carousel slide">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="/image/header-img.jpg" class="d-block w-100" alt="">
+        <img src="/image/header-img.jpg" class="d-block w-100" alt="Welcome to AIIBSCSTEWC">
         <div class="carousel-caption bg-dark bg-opacity-50 rounded p-3">
           <h1 class="fw-bold">Welcome to AIIBSCSTEWC</h1>
         </div>
@@ -18,7 +18,7 @@ description: AIIBSCSTEWC is the national welfare council of Indian Bank SC/ST em
       <div class="carousel-item">
         <img src="/image/header-img.jpg" class="d-block w-100" alt="">
         <div class="carousel-caption bg-dark bg-opacity-50 rounded p-3">
-          <h1 class="fw-bold">Welcome to AIIBSCSTEWC</h1>
+          <h2 class="fw-bold">Welcome to AIIBSCSTEWC</h2>
         </div>
       </div>
     </div>
