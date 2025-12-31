@@ -1,0 +1,78 @@
+<style>
+.team-item {
+  display: none;
+}
+
+.card-img-top {
+  height: 320px;
+  object-fit: cover;
+}
+
+
+
+</style>
+
+
+<section class="container-xxl my-5">
+  <div class="container">
+
+    <div class="text-center mx-auto mb-4">
+      <h4 class="display-2 mb-3">AIIBSCSTEWC TEAM</h4>
+    </div>
+
+    <div class="row g-4" id="teamWrapper">
+      {% for member in site.data.team %}
+      <div class="col-md-3 col-sm-6 team-item">
+        <div class="card h-100 text-center shadow-sm bg-light">
+          <img src="{{ member.image }}" class="card-img-top" alt="{{ member.name }}">
+          <div class="card-body">
+            <h5>{{ member.name }}</h5>
+            <span class="text-muted">{{ member.position }}</span><br>
+            <small>{{ member.mobile }}</small>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Buttons -->
+    <div class="text-center mt-4">
+      <button class="btn btn-outline-primary me-2" id="prevBtn">← Prev</button>
+      <button class="btn btn-outline-primary" id="nextBtn">Next →</button>
+    </div>
+
+  </div>
+</section>
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const items = document.querySelectorAll(".team-item");
+  const perPage = 4;
+  let current = 0;
+
+  function showItems() {
+    items.forEach((item, index) => {
+      item.style.display =
+        index >= current && index < current + perPage ? "block" : "none";
+    });
+  }
+
+  document.getElementById("nextBtn").addEventListener("click", () => {
+    if (current + perPage < items.length) {
+      current += perPage;
+      showItems();
+    }
+  });
+
+  document.getElementById("prevBtn").addEventListener("click", () => {
+    if (current - perPage >= 0) {
+      current -= perPage;
+      showItems();
+    }
+  });
+
+  showItems(); // initial load
+});
+</script>
