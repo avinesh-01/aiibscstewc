@@ -69,14 +69,14 @@ description: AIIBSCSTEWC is the national welfare council of Indian Bank SC/ST em
    <div class="card h-80 shadow-sm">
      <img src="/events/bangal-meeting-2026/wb-meeting-1.jpg" class="card-img-top">
       <div class="card-body">
-       <h6 class="card-title">14th West Bengal Zone Conference Held at Kolkata Mulali Youth Center</h6>
+       <h6 class="card-title">14th West Bengal Zone meeting Held at Kolkata Mulali Youth Center</h6>
         <a href="/west-bengal-zone-committee-meeting" class="btn btn-sm btn-primary">Read More</a>
       </div>
      </div>
     </div>
 
 
-    </div>
+   </div>
 
   </div>
 </section>

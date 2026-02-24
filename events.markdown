@@ -224,6 +224,17 @@ permalink: /event
 
 
 <!-- event-12 -->
+<div class="col-lg-4 col-md-6 mb-4 wow fadeInUp">
+  <div class="courses-item bg-white h-100">
+    <div class="text-center"><h5>14th West Bengal Zone Meeting</h5></div>
+     <div class="position-relative">
+   <img src="/events/bangal-meeting-2026/wb-meeting-1.jpg" alt="Event">
+      <div class="courses-overlay"><a class="btn btn-outline-light" href="/west-bengal-zone-committee-meeting">Read More</a></div>
+    </div>
+  </div>
+</div>
+
+<!-- event-12 -->
 <!-- <div class="col-lg-4 col-md-6 mb-4 wow fadeInUp">
   <div class="courses-item bg-white h-100">
     <div class="text-center"><h5>Name</h5></div>
