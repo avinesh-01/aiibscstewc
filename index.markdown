@@ -51,21 +51,31 @@ description: AIIBSCSTEWC is the national welfare council of Indian Bank SC/ST em
   </div>
 </section>
 <section class="bg-light py-5">
-  <div class="container">
-    <h2 class="text-center mb-4">Events</h2>
+ <div class="container">
+   <h2 class="text-center mb-4">Events</h2>
     <div class="row g-4">
-      <!-- Repeat card pattern for all your events -->
-      <div class="col-md-4">
-        <div class="card h-80 shadow-sm">
-          <img src="/events/vinod-sir.jpg" class="card-img-top">
-          <div class="card-body">
-            <h6 class="card-title">
-              Warm Wishes and Support to Our Newly Appointed Honorable Executive and Managing Director, Mr. Binod Kumar Ji
-            </h6>
-            <a href="/best-wishes-mr-binod-kumar-ji-council-team.html" class="btn btn-sm btn-primary">Read More</a>
-          </div>
-        </div>
+ <!-- Repeat card pattern for all your events -->
+  <div class="col-md-4">
+   <div class="card h-80 shadow-sm">
+     <img src="/events/vinod-sir.jpg" class="card-img-top">
+      <div class="card-body">
+       <h6 class="card-title">  Warm Wishes and Support to Our Newly Appointed Honorable Executive and Managing Director, Mr. Binod Kumar Ji </h6>
+        <a href="/best-wishes-mr-binod-kumar-ji-council-team" class="btn btn-sm btn-primary">Read More</a>
       </div>
+     </div>
+    </div>
+<!-- Repeat card pattern for all your events -->
+ <div class="col-md-4">
+   <div class="card h-80 shadow-sm">
+     <img src="/events/bangal-meeting-2026/wb-meeting-1.jpg" class="card-img-top">
+      <div class="card-body">
+       <h6 class="card-title">14th West Bengal Zone Conference Held at Kolkata Mulali Youth Center</h6>
+        <a href="/west-bengal-zone-committee-meeting" class="btn btn-sm btn-primary">Read More</a>
+      </div>
+     </div>
+    </div>
+
+
     </div>
 
   </div>
