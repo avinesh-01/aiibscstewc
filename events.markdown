@@ -83,6 +83,23 @@ permalink: /event
 <div class="container">
 <div class=row>
 
+
+
+<!-- event-001 -->
+<div class="col-lg-4 col-md-6 mb-4 wow fadeInUp">
+  <div class="courses-item bg-white h-100">
+    <div class="text-center"><h5> Dr. Ambedkar Jayanti Celebration in Delhi </h5></div>
+     <div class="position-relative">
+   <img src="/image/2026/ambedkar-jayanti/ambedkar03.jpg" alt="Event">
+    <div class="courses-overlay"><a class="btn btn-outline-light" href="/dr-ambedkar-jayanti-celebration-delhi-aiibscstewc-2026">Read More</a></div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 <!-- event-01 -->
 <div class="col-lg-4 col-md-6 mb-4 wow fadeInUp">
   <div class="courses-item bg-white h-100">
