@@ -76,6 +76,16 @@ description: AIIBSCSTEWC is the national welfare council of Indian Bank SC/ST em
     </div>
 
 
+<!-- parliament Committee-->
+<div class="col-md-4">
+   <div class="card h-80 shadow-sm">
+     <img src="/assets/image/06june2026/event1.jpeg" class="card-img-top">
+      <div class="card-body">
+       <h6 class="card-title">AIIBSCSTEWC Participates in Parliamentary Committee Study Visit on SC/ST Welfare</h6>
+        <a href="/parliamentary-committee-study-visit-sc-st-welfare-june-2026" class="btn btn-sm btn-primary">Read More</a>
+      </div>
+     </div>
+    </div>
    </div>
 
   </div>
