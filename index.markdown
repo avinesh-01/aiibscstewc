@@ -60,7 +60,7 @@ description: AIIBSCSTEWC is the national welfare council of Indian Bank SC/ST em
    <div class="card h-80 shadow-sm">
      <img src="/assets/image/siliguri-2026/siliguri1.jpeg" class="card-img-top">
       <div class="card-body">
-       <h6 class="card-title">AIIBSCSTEWC Siliguri Zonal Conference 2026</h6>
+       <h6 class="card-title">AIIBSCSTEWC Siliguri Zonal Unit Conference 2026</h6>
         <a href="/siliguri-zonal-conference-2026" class="btn btn-sm btn-primary">Read More</a>
       </div>
      </div>
