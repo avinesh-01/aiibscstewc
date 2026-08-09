@@ -88,9 +88,9 @@ permalink: /event
 <!-- event-001 -->
 <div class="col-lg-4 col-md-6 mb-4 wow fadeInUp">
   <div class="courses-item bg-white h-100">
-    <div class="text-center"><h5>AIIBSCSTEWC Siliguri Zonal Conference 2026</h5></div>
+    <div class="text-center"><h5>AIIBSCSTEWC Siliguri Zonal Unit Conference 2026</h5></div>
      <div class="position-relative">
-   <img src="/assets/image/06june2026/event1.jpeg" alt="Event">
+   <img src="/assets/image/siliguri-2026/siliguri1.jpeg" alt="Event">
     <div class="courses-overlay"><a class="btn btn-outline-light" href="/siliguri-zonal-conference-2026">Read More</a></div>
     </div>
   </div>
